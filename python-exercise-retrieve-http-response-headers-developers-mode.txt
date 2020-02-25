@@ -1,0 +1,7 @@
+1. go to the website to retrieve http response headers
+2.ctrl shift i or f10
+3. Network tab 
+4. record or red dot
+5. click ALL beside XHR JS CSS..
+6. click the name of the file below
+7. You can see the response headers there
